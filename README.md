@@ -16,6 +16,14 @@ Please refer to the [documentation section on our site](http://mosaic-lopow.gith
 
 The developers can be reached on the [dash7-ap-oss Google Group](https://groups.google.com/forum/#!forum/dash7-ap-oss)
 
+# Current build state
+
+B_L072Z_LRWAN1: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=B_L072Z_LRWAN1)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=B_L072Z_LRWAN1/)
+
+NUCLEO_L073RZ: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=NUCLEO_L073RZ)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=NUCLEO_L073RZ/)
+
+EZR32LG_WSTK6200A: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
+
 # License
 
 Licensed under the Apache License, Version 2.0 (the "License"): You may not use these files except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
