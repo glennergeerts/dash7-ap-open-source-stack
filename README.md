@@ -25,6 +25,8 @@ NUCLEO_L073RZ: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/ico
 EZR32LG_WSTK6200A: 
 [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
 <a href='http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/'><img src='http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A'></a>
+[!http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/badge/icon!|http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/]
+[[image:http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/badge/icon>>http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/||target='__new']]
 
 # License
 
