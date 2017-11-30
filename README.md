@@ -22,7 +22,8 @@ B_L072Z_LRWAN1: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/ic
 
 NUCLEO_L073RZ: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=NUCLEO_L073RZ)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=NUCLEO_L073RZ/)
 
-EZR32LG_WSTK6200A: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
+EZR32LG_WSTK6200A: 
+[![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
 
 # License
 
