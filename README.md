@@ -18,15 +18,12 @@ The developers can be reached on the [dash7-ap-oss Google Group](https://groups.
 
 # Current build state
 
-B_L072Z_LRWAN1: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=B_L072Z_LRWAN1)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=B_L072Z_LRWAN1/)
+B_L072Z_LRWAN1: [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=B_L072Z_LRWAN1)](http://143.129.38.131:8080/job/BuildProject/Platform=B_L072Z_LRWAN1/)
 
-NUCLEO_L073RZ: [![Build Status](jenkins.idlab.uantwerpen.be:8080/buildStatus/icon?job=BuildProject/Platform=NUCLEO_L073RZ)](jenkins.idlab.uantwerpen.be:8080/job/BuildProject/Platform=NUCLEO_L073RZ/)
+NUCLEO_L073RZ: [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=NUCLEO_L073RZ)](http://143.129.38.131:8080/job/BuildProject/Platform=NUCLEO_L073RZ/)
 
 EZR32LG_WSTK6200A: 
 [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
-<a href='http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/'><img src='http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A'></a>
-[!http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/badge/icon!|http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/]
-[[image:http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/badge/icon>>http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/||target='__new']]
 
 # License
 
