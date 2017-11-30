@@ -25,6 +25,7 @@ NUCLEO_L073RZ: [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=
 EZR32LG_WSTK6200A: 
 [![Build Status](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)](http://143.129.38.131:8080/job/BuildProject/Platform=EZR32LG_WSTK6200A/)
 
+![alt text](http://143.129.38.131:8080/buildStatus/icon?job=BuildProject/Platform=EZR32LG_WSTK6200A)
 # License
 
 Licensed under the Apache License, Version 2.0 (the "License"): You may not use these files except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
